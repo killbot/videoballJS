@@ -1,0 +1,4 @@
+videoballJS
+an experiment in using video on html5 2d canvases 
+as textures on 3d objects in webGL.  uses ThreeJS.
+Probably only works in chrome.
